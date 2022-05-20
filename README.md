@@ -1,2 +1,2 @@
 # Algoritma
-# Salam dunaya
+# Salam dunaya-Githabda deyisildi
